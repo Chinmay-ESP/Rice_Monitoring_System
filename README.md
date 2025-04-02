@@ -77,6 +77,4 @@ function doPost(e) {
 ## Contributors
 - **Chinmay Chavan** (Developer & Researcher)
 
-## License
-This project is licensed under the MIT License.
 
